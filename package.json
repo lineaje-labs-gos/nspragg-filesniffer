@@ -1,6 +1,6 @@
 {
   "name": "filesniffer",
-  "version": "1.0.3",
+  "version": "1.0.3-lineaje-01",
   "description": "Search files the easy way.",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nspragg/filesniffer.git"
+    "url": "https://github.com/lineaje-labs-gos/nspragg-filesniffer"
   },
   "keywords": [
     "file",
@@ -39,6 +39,12 @@
     "grep"
   ],
   "license": "Apache-2.0",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/nspragg/filesniffer/issues"
   },
